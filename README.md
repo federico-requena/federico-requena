@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **UX/UI Design**
 
-- 🤝 I’m looking for help with **learning React in the most up-to-date and simple way**
+- 🤝 I’m looking for help with **learning more about React in the most up-to-date and simple way**
 
 - 💬 Ask me about **front end development, user stories, web design and layout.**
 
