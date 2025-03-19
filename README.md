@@ -2,10 +2,10 @@
 
 <h2 align="left">👋 Hi! My name is Federico Requena</h2>
 
-<h3 align="left"> 
+<h4 align="left"> 
 
   I am a Web Developer who brings a modern and effective perspective to developing comprehensive web applications. 
-  I was recently certified as a Full-stack Developer through the bootcamp offered by the agreement between 4Geeks Academy, UTEC and ANDA to begin a professional experience in the IT sector, to convert years of creative storytelling and digital strategy into impactful web solutions. </h3>
+  I was recently certified as a Full-stack Developer to begin a professional experience in the IT sector and convert years of creative storytelling and digital strategy into impactful web solutions. </h4>
 
 - 🔭 I’m currently working on **improving my knowledge and skills in back-end development**
 
