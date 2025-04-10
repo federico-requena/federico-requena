@@ -4,8 +4,8 @@
 
 <h4 align="left"> 
 
-  I am a Web Developer who brings a modern and effective perspective to developing comprehensive web applications. 
-  I was recently certified as a Full-stack Developer to begin a professional experience in the IT sector and convert years of creative storytelling and digital strategy into impactful web solutions. </h4>
+  I am a Web Developer with a modern and practical perspective to developing comprehensive web applications. 
+  I was recently certified as a Full-stack Developer, focusing on converting years of creative storytelling and digital strategy into impactful and attractive web solutions with special emphasis on user interface. </h4>
 
 - 🔭 I’m currently working on **improving my knowledge and skills in back-end development**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **learning more about React in the most up-to-date and simple way**
 
-- 💬 Ask me about **front end development, user stories, web design and layout.**
+- 💬 Ask me about **front-end development, user stories, web design and layout.**
 
 - 📫 Reach me by e-mail: **federico.requena@gmail.com**
 
