@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **improving my knowledge and skills in back-end development**
 
-- 🌱 I’m currently learning **UX/UI Design**
+- 🌱 I’m currently learning **Vibe Coding at 4Geeks**
 
 - 🤝 I’m looking for help with **learning more about React in the most up-to-date and simple way**
 
-- 💬 Ask me about **front-end development, user stories, web design and layout.**
+- 💬 Ask me about **front-end development, user stories, web layout and vibe coding.**
 
 - 📫 Reach me by e-mail: **federico.requena@gmail.com**
 
