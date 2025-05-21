@@ -7,11 +7,11 @@
   I am a Web Developer with a modern and practical perspective to developing comprehensive web applications. 
   I was recently certified as a Full-stack Developer, focusing on converting years of creative storytelling and digital strategy into impactful and attractive web solutions with special emphasis on user interface. </h4>
 
-- 🔭 I’m currently working on **improving my knowledge and skills in back-end development**
+- 🔭 I’m currently working on **improving my knowledge and skills in back-end development**.
 
-- 🌱 I’m currently learning **Vibe Coding at 4Geeks**
+- 🌱 I’m currently learning **Vibe Coding at 4Geeks**.
 
-- 🤝 I’m looking for help with **learning more about React in the most up-to-date and simple way**
+- 🤝 I’m looking for help with **learning more about React in the most up-to-date and simple way**.
 
 - 💬 Ask me about **front-end development, user stories, web layout and vibe coding.**
 
