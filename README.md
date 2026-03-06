@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **improving my knowledge and skills in prompt engineering, AI, UI and back-end development**.
 
-- 🌱 I’m currently working and updating projects with **Vibe Coding**.
+- 🌱 I’m currently updating projects with **vibe coding**.
 
 - 🤝 I’m **learning more about developing anything with and without AI**.
 
