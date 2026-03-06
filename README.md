@@ -4,14 +4,14 @@
 
 <h4 align="left"> 
 
-  I am a Web Developer with a modern and practical perspective to developing comprehensive web applications. 
-  I was recently certified as a Full-stack Developer, focusing on converting years of creative storytelling and digital strategy into impactful and attractive web solutions with special emphasis on user interface. </h4>
+  I am an AI Web Developer with a modern and practical and up-to-date perspective to developing nowadays. 
+  I was recently certified as a Full-stack Developer, focusing on converting years of creative storytelling and digital strategy into impactful and attractive web solutions with special emphasis on user interface and stuff regarding UX/UI and graphic design. </h4>
 
-- 🔭 I’m currently working on **improving my knowledge and skills in back-end development**.
+- 🔭 I’m currently working on **improving my knowledge and skills in prompt engineering, AI, UI and back-end development**.
 
-- 🌱 I’m currently learning **Vibe Coding at 4Geeks**.
+- 🌱 I’m currently working and updating projects with **Vibe Coding**.
 
-- 🤝 I’m looking for help with **learning more about React in the most up-to-date and simple way**.
+- 🤝 I’m **learning more about developing anything with and without AI**.
 
 - 💬 Ask me about **front-end development, user stories, web layout and vibe coding.**
 
