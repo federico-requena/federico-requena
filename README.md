@@ -1,4 +1,4 @@
-![Black Minimalist Motivation Quote LinkedIn Banner (2)](https://github.com/user-attachments/assets/e3a4ab1d-2bee-4139-bc66-b61938d5f789)
+<img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/0607ca1b-c4be-44c7-9707-e422479ed2c9" />
 
 <h2 align="left">👋 Hi! My name is Federico Requena</h2>
 
