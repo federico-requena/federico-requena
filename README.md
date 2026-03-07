@@ -5,9 +5,9 @@
 <h4 align="left"> 
 
 I am an AI-driven web developer building modern, production-ready applications with a focus on current best practices and emerging AI integrations.  
-Since earning my Full-Stack Developer certification a year ago, I’ve focused on bridging years of creative storytelling and digital strategy with technical execution. I specialize in building impactful, visually compelling web solutions with a core emphasis on intuitive UX/UI design and high-performance frontend development. </h4>
+Since earning my Full-Stack Developer certification a year ago, I’ve focused on bridging years of creative storytelling and digital strategy with technical execution. I specialise in building impactful, visually compelling web solutions, with a focus on UX/UI Design and high-performance frontend development. </h4>
 
-- 🔭 I’m currently working on **improving my knowledge and skills in prompt engineering, AI, UI/UX design and back-end development**.
+- 🔭 I’m currently working on **improving my knowledge and skills in prompt engineering and back-end development**.
 
 - 🌱 I’m currently updating projects with **vibe coding**.
 
